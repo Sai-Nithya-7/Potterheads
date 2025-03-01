@@ -45,10 +45,6 @@ This project is deployed using Vercel.
 - A refined Sorting Hat quiz algorithm for more accurate house placement.
 - Implementing security measures to protect user data.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
