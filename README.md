@@ -1,7 +1,7 @@
 # Harry Potter Fanpage
 
 Welcome to the Harry Potter Fanpage! This website is dedicated to all things magical from the wizarding world of Harry Potter.
-**Check out the Live Website:** [https://your-harry-potter-fanpage.vercel.app](https://your-harry-potter-fanpage.vercel.app)
+**Check out the Live Website:** [https://the-harry-potter-fanpage.vercel.app](https://the-harry-potter-fanpage.vercel.app)
 
 ## Features
 
@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    \`\`\`
-   git clone https://github.com/your-username/harry-potter-fanpage.git
+   git clone https://github.com/Sai-Nithya-7/Potterheads.git
    \`\`\`
 
 2. Navigate to the project directory:
